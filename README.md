@@ -1,5 +1,3 @@
-# Crime_Scene_Observationsystem
-
 # 🕵️ Crime Scene Observation System
 
 Crime Scene Observation System is a web-based application built with Django that helps law enforcement teams record, manage, and review crime scenes and related evidence. It provides a centralized platform to store case details, track investigations, and generate reports, making the crime documentation process faster, more accurate, and accessible.
